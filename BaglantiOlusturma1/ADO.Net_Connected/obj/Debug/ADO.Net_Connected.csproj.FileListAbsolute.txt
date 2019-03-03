@@ -1,0 +1,9 @@
+C:\Users\Section2\source\repos\NT_ADO.Net_1\ADO.Net_Connected\bin\Debug\ADO.Net_Connected.exe.config
+C:\Users\Section2\source\repos\NT_ADO.Net_1\ADO.Net_Connected\bin\Debug\ADO.Net_Connected.exe
+C:\Users\Section2\source\repos\NT_ADO.Net_1\ADO.Net_Connected\bin\Debug\ADO.Net_Connected.pdb
+C:\Users\Section2\source\repos\NT_ADO.Net_1\ADO.Net_Connected\obj\Debug\ADO.Net_Connected.csprojAssemblyReference.cache
+C:\Users\Section2\source\repos\NT_ADO.Net_1\ADO.Net_Connected\obj\Debug\ADO.Net_Connected.Properties.Resources.resources
+C:\Users\Section2\source\repos\NT_ADO.Net_1\ADO.Net_Connected\obj\Debug\ADO.Net_Connected.csproj.GenerateResource.cache
+C:\Users\Section2\source\repos\NT_ADO.Net_1\ADO.Net_Connected\obj\Debug\ADO.Net_Connected.csproj.CoreCompileInputs.cache
+C:\Users\Section2\source\repos\NT_ADO.Net_1\ADO.Net_Connected\obj\Debug\ADO.Net_Connected.exe
+C:\Users\Section2\source\repos\NT_ADO.Net_1\ADO.Net_Connected\obj\Debug\ADO.Net_Connected.pdb

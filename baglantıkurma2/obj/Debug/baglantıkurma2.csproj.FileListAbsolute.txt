@@ -1,0 +1,10 @@
+C:\Users\Section1\Desktop\NT_ADO.Net_1\baglantıkurma2\bin\Debug\baglantıkurma2.exe.config
+C:\Users\Section1\Desktop\NT_ADO.Net_1\baglantıkurma2\bin\Debug\baglantıkurma2.exe
+C:\Users\Section1\Desktop\NT_ADO.Net_1\baglantıkurma2\bin\Debug\baglantıkurma2.pdb
+C:\Users\Section1\Desktop\NT_ADO.Net_1\baglantıkurma2\obj\Debug\baglantıkurma2.csprojResolveAssemblyReference.cache
+C:\Users\Section1\Desktop\NT_ADO.Net_1\baglantıkurma2\obj\Debug\baglantıkurma2.Form1.resources
+C:\Users\Section1\Desktop\NT_ADO.Net_1\baglantıkurma2\obj\Debug\baglantıkurma2.Properties.Resources.resources
+C:\Users\Section1\Desktop\NT_ADO.Net_1\baglantıkurma2\obj\Debug\baglantıkurma2.csproj.GenerateResource.cache
+C:\Users\Section1\Desktop\NT_ADO.Net_1\baglantıkurma2\obj\Debug\baglantıkurma2.csproj.CoreCompileInputs.cache
+C:\Users\Section1\Desktop\NT_ADO.Net_1\baglantıkurma2\obj\Debug\baglantıkurma2.exe
+C:\Users\Section1\Desktop\NT_ADO.Net_1\baglantıkurma2\obj\Debug\baglantıkurma2.pdb
